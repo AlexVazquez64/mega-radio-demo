@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760">
+  <defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#07120a"/><stop offset=".55" stop-color="#0b7138"/><stop offset="1" stop-color="#b5722b"/></linearGradient></defs>
+  <rect width="900" height="760" fill="url(#bg)"/>
+  <path d="M0 560 170 370l120 120 160-245 180 255 120-135 150 195v200H0Z" fill="#041008" opacity=".7"/>
+  <circle cx="700" cy="155" r="92" fill="#f5c75e" opacity=".9"/>
+  <path d="M590 220c26-50 62-75 110-75s84 25 110 75" fill="none" stroke="#fff" stroke-width="9" opacity=".8"/>
+  <text x="70" y="570" fill="#fff" font-family="Georgia, serif" font-size="78" font-weight="700">LA NORTEÑITA</text>
+  <text x="72" y="635" fill="#d9f6df" font-family="Arial, sans-serif" font-size="34">La tradición del norte</text>
+</svg>

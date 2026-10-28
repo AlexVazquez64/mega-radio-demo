@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320">
+  <defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#6d1fff"/><stop offset="1" stop-color="#ff2d8f"/></linearGradient></defs>
+  <rect width="320" height="320" rx="56" fill="#09060d"/>
+  <circle cx="160" cy="160" r="121" fill="none" stroke="url(#g)" stroke-width="13" opacity=".92"/>
+  <path d="M69 170c30-56 65-83 105-81 33 2 58 19 77 51" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" opacity=".9"/>
+  <path d="M75 198c35-35 65-51 91-48 29 3 53 20 76 52" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round"/>
+  <text x="160" y="168" fill="#fff" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="800">SWITCH</text>
+  <text x="160" y="213" fill="#ff4ba2" text-anchor="middle" font-family="Arial, sans-serif" font-size="33" font-weight="700">95.7 FM</text>
+</svg>

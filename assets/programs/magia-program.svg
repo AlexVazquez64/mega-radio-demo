@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760">
+  <defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#071326"/><stop offset=".55" stop-color="#126eb9"/><stop offset="1" stop-color="#f3c74f"/></linearGradient></defs>
+  <rect width="900" height="760" fill="url(#bg)"/>
+  <circle cx="650" cy="215" r="225" fill="#fff" opacity=".1"/>
+  <circle cx="650" cy="215" r="155" fill="none" stroke="#fff" stroke-width="9" opacity=".55"/>
+  <path d="m650 80 20 56 57 20-57 20-20 56-20-56-57-20 57-20 20-56Z" fill="#f7d468"/>
+  <text x="70" y="530" fill="#fff" font-family="Arial, sans-serif" font-size="82" font-weight="800">MAGIA DIGITAL</text>
+  <text x="72" y="600" fill="#d8f1ff" font-family="Arial, sans-serif" font-size="34">Entretenimiento · Humor · Música</text>
+</svg>
